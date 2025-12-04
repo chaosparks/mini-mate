@@ -1,0 +1,5 @@
+{
+  "name": "MiniMate - Local Minifier",
+  "description": "A smart tool to minify JavaScript, CSS and Images locally using Terser, CSSO, and Canvas.",
+  "requestFramePermissions": []
+}
